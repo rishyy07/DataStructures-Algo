@@ -1,5 +1,7 @@
 import java.util.HashMap;
 
+//this program calculates the length of longest subarray with at most k frequency
+
 public class Leetcode2958 {
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 1, 2, 3, 1, 2 };
